@@ -1,2 +1,2 @@
 # WGNetworkKit
-AFNetwork再封装。
+AFNetworking再封装。
